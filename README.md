@@ -1,4 +1,4 @@
-# ButtonTextReColorlizer
+# ButtonTextReColorizer
 An accessible UI editing tools for MKWii, powered by Google Colab.
 
 ## 概要
@@ -25,7 +25,7 @@ Google Colaboratoryを初めて利用する方は、以下の動画を参考に�
 すべてのファイルの実行が完了したら、以下の手順でファイルをダウンロードしてください。
 
 1. **Googleドライブを開く**：  
-   `マイドライブ` → `8MeTools` → `ButtonTextReColorlizer` → `EditedBRLYT` と `EditedBRLAN` フォルダを選択して保存します。
+   `マイドライブ` → `8MeTools` → `BTRC` → `EditedBRLYT` と `EditedBRLAN` フォルダを選択して保存します。
 
 2. **ファイルの適用**：  
    ダウンロードしたzipファイルを展開し、`"〇〇.d"`というフォルダをご自身のアセットに上書きコピーします。
