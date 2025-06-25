@@ -1,5 +1,5 @@
 # ButtonTextReColorizer
-An accessible UI editing tools for MKWii, powered by Google Colab.
+An accessible UI editing tool for MKWii, powered by Google Colab.
 
 ## 概要
 
