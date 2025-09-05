@@ -1198,7 +1198,7 @@
                                 "location adjust": false,
                             },
                             "base position": "bottom center",
-                            "opacity": 200,
+                            "opacity": 100,
                             "name": "color_base2",
                             "user data": "",
                             "translation x": 0.0,
