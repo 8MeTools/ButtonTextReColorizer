@@ -196,7 +196,7 @@
                     ],
                 },
                 {
-                    "name": "color_down2",
+                    "name": "color_down",
                     "kind": "pane",
                     "animations": [
                         {

@@ -22,7 +22,7 @@
             "magic": "mat1",
             "materials": [
                 {
-                    "name": "color_down2",
+                    "name": "color_down",
                     "tev color 0 r": 0,
                     "tev color 0 g": 0,
                     "tev color 0 b": 0,
@@ -1652,7 +1652,7 @@
                                     },
                                     "base position": "center",
                                     "opacity": 0,
-                                    "name": "color_down2",
+                                    "name": "color_down",
                                     "user data": "",
                                     "translation x": 4e-06,
                                     "translation y": 9e-06,
@@ -2490,7 +2490,7 @@
                                             },
                                             "base position": "center",
                                             "opacity": 0,
-                                            "name": "color_down2",
+                                            "name": "color_down",
                                             "user data": "",
                                             "translation x": 4e-06,
                                             "translation y": 9e-06,
@@ -2910,7 +2910,7 @@
                             "name": "pause_w_null",
                         },
                         {
-                            "name": "color_down2",
+                            "name": "color_down",
                         },
                         {
                             "name": "chara_c_down2",
