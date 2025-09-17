@@ -17,7 +17,7 @@
             "tpls": [],
             "contents": [
                 {
-                    "name": "fuchi_pattern2",
+                    "name": "border",
                     "kind": "material",
                     "animations": [
                         {
